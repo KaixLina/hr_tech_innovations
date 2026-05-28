@@ -26,3 +26,4 @@ npm run build
 ## Deployment
 
 Hosted on Vercel
+https://hr-tech-innovations.vercel.app/
